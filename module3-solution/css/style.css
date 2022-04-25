@@ -1,0 +1,46 @@
+*{
+    font-family: dancing script;
+}
+.navbar-brand{
+    margin-top: -25px;
+}
+#section1{
+    background-color: gray;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    color: white;
+}
+#section1 a{
+   color: black;
+}
+#section2{
+    
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+#section3{
+    background-color: gray;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    color: white;
+}
+#section3 a{
+    color:black;
+}
+@media all and (max-width:768px) {
+    #section1{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    #section2{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    #section3{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
